@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+#### React js version : 17.0.1
+
 In the project directory, you can run:
 
 ### `yarn start`
